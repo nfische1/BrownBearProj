@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+
+}
+
+#media img {
+    display: block;
+    margin: 0 auto;
+
+}
+
+#media video{
+
+    display: block;
+    margin: 15px auto;
+    width: 100%;
+}
+
+.tab {
+    display: none;
+
+}
+
+.active.tab{
+    display: block !important;
+}
